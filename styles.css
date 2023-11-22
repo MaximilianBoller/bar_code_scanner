@@ -1,11 +1,10 @@
 .qr__reader{
-width: 800px;
+width: calc(100vw - 2rem);
 height: auto;
 border-radius: .5rem;
 overflow: hidden;
 
 }
-
 body{
     height: 100vh;
     width: 100vw;
